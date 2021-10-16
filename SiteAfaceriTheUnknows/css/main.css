@@ -1,0 +1,145 @@
+.theunknow{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    height: 700px;
+    width: 1350px;
+    top: 0px;
+}
+
+.button {
+    background-color: #aa0505; /* red */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    transition-duration: 0,4s;
+    left: 577px;
+    position: relative;
+    bottom: 70px;
+
+  }
+
+  .button:hover {
+    background-color: #ff0000; /* red */
+    color: white;
+  }
+  
+
+
+
+
+  .negru{
+      position:absolute;
+      width: 1350px;
+      height: 40px;
+      bottom:0px;
+      top: 740px;
+      left: 0px;
+      background-color: rgb(15, 15, 15);
+      border-radius: 5px;
+
+
+
+  }
+
+
+  .rectangle {
+    height: 400px;
+    width: 1350px;
+    background-color: #555;
+    position:relative;
+    left: 0px;
+    bottom: 0px;
+    right:0px;
+    top: 2100px;
+
+  }
+
+  .standard{
+      height: 300px;
+      width: 250px;
+      background-color: rgb(34, 34, 34);
+      text-align: center;
+      position:absolute;
+      right: 880px;
+      border-radius: 10px;
+
+  }
+
+  .basic{
+    height: 300px;
+    width: 250px;
+    background-color: rgb(34, 34, 34);
+    text-align: center;
+    position:absolute;
+    right: 570px;
+    border-radius: 10px;
+
+  }
+
+  .premium{
+
+    height: 300px;
+    width: 250px;
+    background-color: rgb(34, 34, 34);
+    text-align: center;
+    position:absolute;
+    right: 260px;
+    border-radius: 10px;
+    
+
+  }
+
+  .choose{
+      text-align: center;
+  }
+
+
+
+  .choosebuttons{
+    text-size-adjust: 10px;
+    border-radius: 8px;
+    background-color: #aa0505;
+    border: none;
+    color: white;
+    padding: 10px 27px;
+    bottom: 10px;
+    left: 70px;
+    position: absolute;
+    display: inline-block;
+    
+  }
+
+  .choosebuttons:hover {
+    background-color: #a70c0c; /* red */
+    color: black;
+  }
+
+
+  .text{
+    text-align:  center;
+    color: rgb(0, 0, 0);
+    align-self: auto;
+  }
+
+.nus{
+  align-items: center;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+
+
+#footer {
+  float: left;
+  width: 100%;
+  height: 340px;
+  margin-top: 15px;
+}
